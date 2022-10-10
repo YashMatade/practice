@@ -6,6 +6,7 @@ const index = () => {
     <div>
     hii vicky...
     hello project clonesd
+    hello this is cloned success
     </div>
   )
 }
